@@ -2,7 +2,7 @@ package java_goit_hw8;
 
 public class Rectangle extends Shape {
     @Override
-    String getNameShape() {
+    String getName() {
         return "Rectangle";
     }
 }
